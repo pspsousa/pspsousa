@@ -1,4 +1,4 @@
-<h1 align="center"> ## Bem-vindo(a) ao meu Perfil! 😁 </h1>
+<h1 align="center"> Bem-vindo(a) ao meu Perfil! 😁 </h1>
  <div>
    <a href="https://github.com/pspsousa">
    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=pspsousa&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Pspsousa github stats" /> 
@@ -13,7 +13,7 @@
  
  <br>
  
-<p align="center">  ### Para entrar em contato é só me procurar nas Redes abaixo!  </p>
+<p align="center"> Para entrar em contato é só me procurar nas Redes abaixo!  </p>
  
 <div> 
   
