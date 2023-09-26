@@ -1,7 +1,7 @@
 ## Bem-vindo(a) ao meu Perfil! 😁
  <div>
    <a href="https://github.com/pspsousa">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pspsousa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=pspsousa&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Pspsousa github stats" /> 
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pspsousa&layout=compact&langs_count=6&theme=tokyonight"/>
 
 </div>
