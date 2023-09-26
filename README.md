@@ -18,7 +18,7 @@
 <div> 
   
 
-<p align="center">  <a href="https://www.linkedin.com/in/patricia-sousa-b10414143/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> </p>
+<a href="https://www.linkedin.com/in/patricia-sousa-b10414143/" align="center" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" align="center" target="_blank"></a>
  
 
 </div>
